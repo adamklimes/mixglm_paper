@@ -1,2 +1,2 @@
 # mixglm_paper
-Code for analyses for paper introducing mixglm package
+Code for analyses for paper introducing <i>mixglm</i> package
